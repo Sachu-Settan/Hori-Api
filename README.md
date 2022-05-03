@@ -329,8 +329,3 @@ Tomohon = 170
 Tual = 172
 Yogyakarta = 25
 ```
-
-  # Thanks To
-* [`MRHRTZ`](https://github.com/MRHRTZ)
-  
-  
