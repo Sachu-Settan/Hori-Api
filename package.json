@@ -1,0 +1,31 @@
+{
+  "name": "hori-api",
+  "version": "1.0.0",
+  "description": "Hori-Api",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sachu-Settan/Hori-Api.git"
+  },
+  "keywords": [
+    "API",
+    "Rest-Api",
+    "Sachu",
+    "Sachu-Settan",
+    "Hori-Api"
+  ],
+  "author": "Hexagon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sachu-Settan/Hori-Api/issues"
+  },
+  "homepage": "https://github.com/Sachu-Settan/Hori-Api#readme",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cheerio": "^1.0.0-rc.10",
+    "qs": "^6.10.3"
+  },
+  "directories": {
+    "lib": "lib"
+  }
+}
